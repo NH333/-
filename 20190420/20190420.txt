@@ -1,0 +1,4 @@
+今天报告的内容：
+主要是讲了一下fMRI数据，脑网络的构建，分享一片论文“Identifying Disease-related Subnetwork Connectome Biomarkers by Sparse Hypergraph Learning”
+
+by 陈安琪
